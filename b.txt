@@ -1,0 +1,2 @@
+# Review 0717
+I've practiced how to use 'gitignore'.
